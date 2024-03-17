@@ -1,5 +1,5 @@
-<u>Jason Chambers</u>
-___
+Jason Chambers
+---
 
 [![](linkedin_logo.png)](https://www.linkedin.com/in/jasondchambers/)            [![](medium_logo.png)](https://medium.com/@jason.d.chambers/)
 
